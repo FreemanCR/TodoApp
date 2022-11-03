@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".HistoryActivity"
     android:background="@drawable/animation_list"
-    android:id="@+id/historyLayout">
-
-
+    android:id="@+id/historyLayout"
+    android:orientation="horizontal">
 </LinearLayout>

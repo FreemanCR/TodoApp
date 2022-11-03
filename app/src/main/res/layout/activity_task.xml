@@ -15,12 +15,12 @@
 
         <androidx.appcompat.widget.Toolbar
             android:id="@+id/toolbarAddTask"
-            app:title="Add Task 🪄"
-            app:titleTextColor="#131212"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="#FFDDDDDD"
-            app:popupTheme="@style/AppTheme.PopupOverlay" />
+            android:background="#FFFFFF"
+            app:popupTheme="@style/AppTheme.PopupOverlay"
+            app:title="𝘼𝙙𝙙 𝙏𝙖𝙨𝙠 🪄"
+            app:titleTextColor="#131212" />
 
     </com.google.android.material.appbar.AppBarLayout>
 
