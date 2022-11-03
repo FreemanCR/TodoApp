@@ -8,14 +8,5 @@
     android:background="@drawable/animation_list"
     android:id="@+id/historyLayout">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:fontFamily="@font/arimo_bold"
-        android:gravity="center_horizontal"
-        android:text="@string/text_title"
-        android:textColor="#E3E3E3"
-        android:textSize="15dp"
-        android:padding="15dp" />
+
 </LinearLayout>
